@@ -17,3 +17,7 @@
 
 ### Modification
 - Delete .git files from reactnd-contacts-app and reactnd-contacts-server
+
+> At this point, you should be running two different servers on your local machine:
+Front-end development server: Accessible on port 3000 (with npm start or yarn start)
+Back-end server: Accessible on port 5001 (with node server.js)
